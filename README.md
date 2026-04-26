@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👋 About Me
 
+I’m a bioinformatics Master’s student transitioning from lab work to coding.  
+
+🔬 From lab bench → 💻 data pipelines  
+🐍 Currently building skills in Python, Nextflow & Machine Learning  
+📊 Interested in turning biological data into meaningful insights  
+
+🚀 Always learning, always improving - open to collaboration and contributions
 <!--
 **Shantinii/shantinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
