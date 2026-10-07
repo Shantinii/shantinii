@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m a bioinformatics Master’s student transitioning from lab work to coding.  
+I’m a bioinformatics Master’s graduate transitioning from lab work to coding.  
 
 🔬 From lab bench → 💻 data pipelines  
 🐍 Currently building skills in Python, Nextflow & Machine Learning  
